@@ -1,22 +1,22 @@
 ## JavaScript
 
 - Language
-  - `Object` h
-  - `Function` h
-  - `Boolean` h
-  - `Number` h
-  - `BigInt` h
-  - `String` h
-  - `Symbol` h
-  - `Infinity` h
-  - `NaN` h
-  - `undefined` h
-  - `null` h
-  - `this` h
-  - `instanceof` h
-  - `...spread` h
-  - `...rest` h
-  - `typeof` h
+  - `Object`: 👂 heard
+  - `Function`: 👂 heard
+  - `Boolean`: 👂 heard
+  - `Number`: 👂 heard
+  - `BigInt`: 👂 heard
+  - `String`: 👂 heard
+  - `Symbol`: 👂 heard
+  - `Infinity`: 👂 heard
+  - `NaN`: 👂 heard
+  - `undefined`: 👂 heard
+  - `null`: 👂 heard
+  - `this`: 👂 heard
+  - `instanceof`: 👂 heard
+  - `...spread`: 👂 heard
+  - `...rest`: 👂 heard
+  - `typeof`: 👂 heard
   - Destructuring
   - Generators
   - Iterators
